@@ -1,5 +1,5 @@
 {
-  "name": "testing",
+  "name": "client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +7,8 @@
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.5.0",
@@ -21,6 +23,7 @@
     "framer-motion": "^4.1.17",
     "jquery": "^3.5.1",
     "map": "^1.0.1",
+    "material-ui": "^0.20.2",
     "mobx": "^6.0.4",
     "mobx-react": "^7.0.5",
     "node-sass": "^5.0.0",
